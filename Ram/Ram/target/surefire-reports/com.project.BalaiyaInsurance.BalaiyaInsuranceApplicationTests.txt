@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.project.BalaiyaInsurance.BalaiyaInsuranceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 70.85 s -- in com.project.BalaiyaInsurance.BalaiyaInsuranceApplicationTests

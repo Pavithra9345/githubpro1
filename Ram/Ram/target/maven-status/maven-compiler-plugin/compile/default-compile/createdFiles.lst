@@ -1,0 +1,7 @@
+com\project\BalaiyaInsurance\controller\InsurancePlanController.class
+com\project\BalaiyaInsurance\securityconfiguration\SecurityConfig.class
+com\project\BalaiyaInsurance\repository\InsurancePlanRepository.class
+com\project\BalaiyaInsurance\entity\InsurancePlan.class
+com\project\BalaiyaInsurance\service\InsurancePlanService.class
+com\project\BalaiyaInsurance\BalaiyaInsuranceApplication.class
+com\project\BalaiyaInsurance\jwtutility\JwtUtil.class
